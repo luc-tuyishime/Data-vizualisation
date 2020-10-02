@@ -1,0 +1,13 @@
+version: "2"
+plugins:
+    rubocop:
+        enabled: true
+    eslint:
+        enabled: true
+exclude_patterns:
+    - "**/node_modules/"
+    - "**/build/"
+    - "**/src/**/redux"
+    - "**/src/redux"
+    - "**/src/**/component"
+    - "**/src/component"

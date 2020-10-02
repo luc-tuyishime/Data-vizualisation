@@ -1,0 +1,73 @@
+.slider {
+    .sider-class {
+        background-color: #206df7;
+        color: #fff;
+
+        position: relative;
+        top: 0;
+        bottom: 0;
+    }
+
+    .logo-sidebar {
+        width: 115px;
+        display: block;
+        margin: 0 auto;
+        padding-top: 5px;
+        z-index: 1;
+    }
+
+    .menu-icons {
+        padding-top: 33px;
+        width: 181px;
+        background-color: #206df7;
+    }
+
+    .text-side {
+        padding-bottom: 45px !important;
+    }
+
+    .ant-menu-submenu-inline > .ant-menu-submenu-title .ant-menu-submenu-arrow {
+        color: #fff !important;
+    }
+
+    .ant-menu-submenu-selected {
+        background-color: #fff !important;
+    }
+
+    // .ant-menu .ant-menu-item-selected.text-side {
+    //     background-color: green !important; /*Overriden property*/
+    //     color: red !important;
+    // }
+
+    .ant-menu .ant-menu-item-selected span {
+        /*Overriden property*/
+        color: #206df7 !important;
+    }
+
+    .submenu-margin {
+        margin-left: 5px;
+    }
+
+    .text-sub-menu {
+        color: #fff;
+    }
+
+    .ant-menu-submenu > .ant-menu {
+        background-color: #206df7 !important;
+    }
+
+    .img-logo {
+        background: #2573ff;
+        border-radius: 8px;
+        padding: 5px;
+    }
+
+    .menu-active {
+        background-color: red;
+    }
+
+    .text-sider {
+        margin-left: 9px;
+        color: #fff !important;
+    }
+}

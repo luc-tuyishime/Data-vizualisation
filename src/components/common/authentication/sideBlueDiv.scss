@@ -1,0 +1,27 @@
+.sidebluediv {
+    height: "100vh";
+    position: -webkit-sticky; /* Safari & IE */
+    position: sticky;
+    top: 0;
+    .bg-color {
+        position: relative;
+        background-color: #206df7;
+        height: 100vh;
+        text-align: center;
+    }
+
+    .bg-color img {
+        max-height: 600px;
+    }
+
+    .center-vertically {
+        max-height: 65px;
+        max-width: 180px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+}

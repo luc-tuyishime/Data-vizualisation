@@ -1,0 +1,26 @@
+$title_color: #0f3250;
+$body_color: #2e3033;
+
+.password-container {
+    margin-left: 15px;
+}
+
+.profile-text-setting {
+    margin-top: 5px;
+    color: $title_color;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.profile-text-setting-ussd {
+    margin-top: 5px;
+    color: $title_color;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.profile-text-subtext {
+    color: $body_color;
+    font-weight: bold;
+    font-size: 13px;
+}

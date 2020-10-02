@@ -1,0 +1,139 @@
+.authentication {
+    .sign-container {
+        width: 100%;
+        margin: auto;
+        margin-top: 50vh;
+        transform: translateY(-50%);
+    }
+
+    .text-centered {
+        text-align: center;
+        color: #303f57;
+        font-weight: 600;
+        font-size: 28px;
+    }
+
+    .text-centered-signin {
+        text-align: center;
+        color: #303f57;
+        font-weight: 600;
+        font-size: 28px;
+    }
+
+    .text-centered-confirmation {
+        text-align: center;
+        color: #303f57;
+        font-weight: 600;
+        font-size: 28px;
+    }
+
+    .width-btn {
+        width: 100%;
+        background-color: #217ef7;
+        color: #fff;
+        border: 1px solid #217ef7;
+        border-radius: 5px;
+        height: 37px;
+        font-size: 13px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .width-btn-login {
+        background-color: #fff;
+        color: #217ef7;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        height: 47px;
+        font-size: 13px;
+        box-shadow: 2px 2px 2px 2px #eeeeee;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .width-btn-login:hover {
+        background-color: #fafafa;
+        color: #217ef7;
+        border: 1px solid #eeeeee;
+        border-radius: 5px;
+        height: 47px;
+        font-size: 13px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .test-login-signin {
+        margin-left: 14px;
+        margin-right: 5px;
+    }
+
+    .input-style {
+        border: 1px solid #dcdfe4 !important;
+        box-sizing: border-box !important;
+        border-radius: 5px !important;
+        -webkit-border-radius: 5px !important;
+        -moz-border-radius: 5px !important;
+        -ms-border-radius: 5px !important;
+        -o-border-radius: 5px !important;
+    }
+
+    .label-style {
+        font-size: 12px;
+        color: #81858b;
+    }
+
+    .checkbox-style {
+        color: #3e465a;
+        font-size: 14px;
+    }
+
+    .text-footer {
+        text-align: center;
+        font-size: 13px;
+        color: rgba(19, 32, 65, 0.5);
+    }
+
+    .dot-style {
+        font-size: 25px;
+        width: 10px;
+        padding: 1px 8px;
+    }
+
+    .color-link {
+        color: rgba(19, 32, 65, 0.5);
+    }
+
+    .color-link-register {
+        margin-top: 10px;
+    }
+
+    .icon-success {
+        display: block;
+        margin: 0 auto;
+        padding-top: 60px;
+        font-size: 40px;
+    }
+
+    .text-confirmation {
+        font-size: 23px;
+        margin-top: 15px;
+        color: #2d323d;
+        text-align: center;
+    }
+
+    .center-message {
+        text-align: center;
+        color: #3e465a;
+    }
+
+    .text-footer-reset {
+        text-align: center;
+        padding-top: 20px;
+    }
+}
